@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mizhe.spring.resign</string>
+				<string>com.mizhe.spring.enterprise</string>
 				<key>bundle-version</key>
 				<string>4.4.5</string>
 				<key>kind</key>
